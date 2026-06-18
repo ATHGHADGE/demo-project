@@ -1,1 +1,2 @@
-echo "weolcome to the Commit changes and get started"
+echo "welcome to the project"
+echo "This is my first project"
